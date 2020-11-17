@@ -1,6 +1,6 @@
 # CLIENTE API MARVEL (KOTLIN)
 
-Esta aplicación Kotlin y consume el Api de Marvel y recuperar una lista de personajes.
+Aplicación Kotlin que consume el Api de Marvel y recuperar una lista de personajes.
 La arquitectura utilizada es MVVM (Model View ViewModel)
 
 ![mvvm](https://user-images.githubusercontent.com/19550736/47259068-57edf780-d49c-11e8-9190-8fb8ff21b052.png)
